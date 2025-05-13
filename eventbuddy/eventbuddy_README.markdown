@@ -21,6 +21,3 @@
    ## Katkılar
    - Ahmet Yusuf Gençer: Projenin tamamını tasarladı ve geliştirdi.
    - Sayfaların yüklenme süresini %25 azalttı.
-
-   ## Lisans
-   MIT Lisansı
